@@ -12,7 +12,7 @@ This is where the purpose should go
 
 ## Deployment
 
-This is a simple deployment
+This is a simple deployment. Boom tarattarat
 
 ## How to contribute
 
