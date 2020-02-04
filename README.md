@@ -19,3 +19,5 @@ This is a simple deployment. Boom tarattarat
 Please fork this repository and then issue pull request for review
 
 ### Copyright
+
+THIS IS FOR THE INQUISITION
